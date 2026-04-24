@@ -1,35 +1,64 @@
-# Kestirimci Motor Sağlık İzleme Sistemi
+<div align="center">
 
-IoT tabanlı, ESP32-S3 ile motor arızalarını önceden tespit eden sistem.
+# 🔧 Kestirimci Motor Sağlık İzleme Sistemi
 
----
+[![ESP32](https://img.shields.io/badge/ESP32--S3-Mikrodenetleyici-blue?style=for-the-badge&logo=espressif)](https://www.espressif.com)
+[![C++](https://img.shields.io/badge/C++-Firmware-00599C?style=for-the-badge&logo=cplusplus)](https://isocpp.org)
+[![PCB](https://img.shields.io/badge/KiCad-PCB%20Tasarımı-314CB0?style=for-the-badge&logo=kicad)](https://www.kicad.org)
 
-## Donanım
-- ESP32-S3 mikrodenetleyici
-- MPU6050 — titreşim sensörü
-- INA219 — akım/voltaj ölçümü  
-- DS18B20 — sıcaklık sensörü
-- TB6612FNG — motor sürücü
+*IoT tabanlı, ESP32-S3 ile motor arızalarını gerçek zamanlı tespit eden akıllı izleme sistemi*
 
-## Özellikler
-- Gerçek zamanlı sensör verisi işleme
-- Cihaza gömülü web arayüzü (WebSocket)
-- Özgün PCB tasarımı
-
-## Kurulum
-1. Arduino IDE'ye ESP32 kütüphanesini ekle
-2. Web arayüzüne tarayıcıdan `192.168.4.1` ile bağlan
+</div>
 
 ---
 
-## Görseller
+## 📌 Proje Hakkında
 
-### Şematik
+Bu proje, elektrik motorlarının **titreşim**, **akım/voltaj** ve **sıcaklık** verilerini anlık olarak izleyerek olası arızaları önceden tespit etmeyi amaçlamaktadır. Verilere cihaza gömülü web arayüzü üzerinden uzaktan erişilebilir.
+
+---
+
+## ⚙️ Donanım
+
+| Bileşen | Görev |
+|--------|-------|
+| ESP32-S3 | Ana mikrodenetleyici |
+| MPU6050 | Titreşim ölçümü |
+| INA219 | Akım / Voltaj ölçümü |
+| DS18B20 | Sıcaklık ölçümü |
+| TB6612FNG | Motor sürücü |
+
+---
+
+## ✨ Özellikler
+
+- ⚡ Gerçek zamanlı sensör verisi işleme
+- 🌐 Cihaza gömülü web arayüzü (WebSocket)
+- 🖨️ Özgün PCB tasarımı ve üretimi
+- 📡 Kablosuz uzaktan izleme
+
+---
+
+## 🚀 Kurulum
+
+```bash
+# 1. Arduino IDE'ye ESP32 kütüphanesini ekle
+# 2. Kodu yükle
+# 3. Aynı WiFi ağına bağlan
+```
+
+Tarayıcıdan `192.168.4.1` adresine git → Web arayüzü açılır.
+
+---
+
+## 🖼️ Görseller
+
+### 📐 Şematik
 ![Şematik](sematik.png)
 
 ---
 
-### PCB Tasarımı
+### 💻 PCB Tasarımı
 
 <table>
   <tr>
@@ -44,7 +73,7 @@ IoT tabanlı, ESP32-S3 ile motor arızalarını önceden tespit eden sistem.
 
 ---
 
-### Üretim
+### 🏭 Üretim
 
 <table>
   <tr>
@@ -52,12 +81,22 @@ IoT tabanlı, ESP32-S3 ile motor arızalarını önceden tespit eden sistem.
     <td align="center"><b>Kart - Arka</b></td>
   </tr>
   <tr>
-    <td><img src="motorsaglik_kart1.jpeg" width="400"/></td>
-    <td><img src="motorsaglik_kart2.jpeg" width="400"/></td>
+    <td><img src="motorsaglik_kart1.png" width="400"/></td>
+    <td><img src="motorsaglik_kart2.png" width="400"/></td>
   </tr>
 </table>
 
 ---
 
-### Web Arayüzü
+### 🌐 Web Arayüzü
 ![Web Arayüzü](motor_web.png)
+
+---
+
+<div align="center">
+
+**Mert Uzun** • Kocaeli Üniversitesi • Elektronik ve Haberleşme Mühendisliği
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mert-uzun-b74459308)
+
+</div>
