@@ -19,6 +19,12 @@ IoT tabanlı, ESP32-S3 ile motor arızalarını önceden tespit eden sistem.
 2. Web arayüzüne tarayıcıdan `192.168.4.1` ile bağlan
 
 ## Görseller
+
+**Şematik**
 ![Şematik Görseli](sematik.png)
+
+**PCB 2D**
 ![PCB Görseli](pcb_2d.png)
+
+**PCB 3D**
 ![PCB Görseli](pcb_3d.png)
