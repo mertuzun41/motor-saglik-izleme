@@ -28,3 +28,6 @@ IoT tabanlı, ESP32-S3 ile motor arızalarını önceden tespit eden sistem.
 
 **PCB 3D**
 ![PCB Görseli](pcb_3d.png)
+
+**WEB ARAYÜZ**
+![Web Arayüz Görseli](motor_web.png)
