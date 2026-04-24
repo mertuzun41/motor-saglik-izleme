@@ -91,9 +91,8 @@ Tarayıcıdan `192.168.4.1` adresine git → Web arayüzü açılır.
 
 ---
 
-<div align="center">
 
-**Mert Uzun** • Kocaeli Üniversitesi • Elektronik ve Haberleşme Mühendisliği
+
 
 <div align="center">
 
