@@ -52,8 +52,8 @@ IoT tabanlı, ESP32-S3 ile motor arızalarını önceden tespit eden sistem.
     <td align="center"><b>Kart - Arka</b></td>
   </tr>
   <tr>
-    <td><img src="motorsaglik_kart1.png" width="400"/></td>
-    <td><img src="motorsaglik_kart2.png" width="400"/></td>
+    <td><img src="motorsaglik_kart1.jpeg" width="400"/></td>
+    <td><img src="motorsaglik_kart2.jpeg" width="400"/></td>
   </tr>
 </table>
 
