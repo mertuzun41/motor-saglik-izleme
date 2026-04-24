@@ -2,9 +2,7 @@
 
 # 🔧 Kestirimci Motor Sağlık İzleme Sistemi
 
-[![ESP32](https://img.shields.io/badge/ESP32--S3-Mikrodenetleyici-blue?style=for-the-badge&logo=espressif)](https://www.espressif.com)
-[![C++](https://img.shields.io/badge/C++-Firmware-00599C?style=for-the-badge&logo=cplusplus)](https://isocpp.org)
-[![PCB](https://img.shields.io/badge/KiCad-PCB%20Tasarımı-314CB0?style=for-the-badge&logo=kicad)](https://www.kicad.org)
+
 
 *IoT tabanlı, ESP32-S3 ile motor arızalarını gerçek zamanlı tespit eden akıllı izleme sistemi*
 
@@ -97,6 +95,12 @@ Tarayıcıdan `192.168.4.1` adresine git → Web arayüzü açılır.
 
 **Mert Uzun** • Kocaeli Üniversitesi • Elektronik ve Haberleşme Mühendisliği
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mert-uzun-b74459308)
+<div align="center">
+
+**Mert Uzun** • Kocaeli Üniversitesi • Elektronik ve Haberleşme Mühendisliği
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-uzun-b74459308)
+
+</div>
 
 </div>
